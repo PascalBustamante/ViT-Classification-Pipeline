@@ -1,0 +1,14 @@
+*.log
+*.db
+instance
+.vscode/
+.venv
+*.flaskenv
+config.py
+data/
+reports/
+logs/
+train/checkpoints/
+dog_breed_classifier/hyperparameter_tuning/study_results
+
+dog_breed_classifier/train/checkpoints/
